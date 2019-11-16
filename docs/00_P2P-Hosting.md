@@ -26,7 +26,7 @@ your computer after the installation.
 succesfully.
 4. To start a local version of the website run 
 `dat dat://1d57389d37f2da4722edb4d4399fac878b93b7e2a6a69b9845774a2325e66b11/ --http --sparse`
-5. To access the website, open your browser and go to `http://localhost:8080/`
+5. To access the website, open your browser and go to `http://localhost:8080/`.
 
 ## Seeding
 
@@ -39,10 +39,12 @@ your computer after the installation.
 2. Open up a terminal window and install `dat` with `npm install -g dat`.
 3. Run the command `dat -h`. If you get any output, you have installed Dat 
 succesfully.
-4. To start seeding and downloading all the IB resources run the command: 
+4. If you have the resources downloaded already, skip this step. Download the resources by running the command:
+`dat clone dat://1d57389d37f2da4722edb4d4399fac878b93b7e2a6a69b9845774a2325e66b11/`.
+5. `cd` into the dat directory. To start seeding and downloading all the IB resources run the command: 
 `dat sync dat://1d57389d37f2da4722edb4d4399fac878b93b7e2a6a69b9845774a2325e66b11/`.
-5. To keep seeding, you must keep the terminal window open.
-6. If you want to browse the files in-browser _whilst_ seeding, run the above command with
+6. To keep seeding, you must keep the terminal window open.
+7. If you want to browse the files in-browser _whilst_ seeding, run the above command with
 `--http` at the end.
 
 ## Disclaimer
