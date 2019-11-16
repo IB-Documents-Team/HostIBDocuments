@@ -41,6 +41,9 @@ your computer after the installation.
 succesfully.
 4. To start seeding and downloading all the IB resources run the command: 
 `dat sync dat://1d57389d37f2da4722edb4d4399fac878b93b7e2a6a69b9845774a2325e66b11/`.
+5. To keep seeding, you must keep the terminal window open.
+6. If you want to browse the files in-browser _whilst_ seeding, run the above command with
+`--http` at the end.
 
 ## Disclaimer
 
