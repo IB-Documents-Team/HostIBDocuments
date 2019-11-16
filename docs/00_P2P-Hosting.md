@@ -30,7 +30,7 @@ succesfully.
 
 ## Seeding
 
-To help distribute and seed downloads you would need 54GB of free storage space 
+To help distribute and seed downloads you would need 59GB of free storage space 
 on a computer. Seeding makes downloading with a distributed system faster for 
 everyone and means the files can not be taken down with a copyright notice. 
 
