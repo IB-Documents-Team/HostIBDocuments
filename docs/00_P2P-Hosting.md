@@ -26,6 +26,7 @@ your computer after the installation.
 succesfully.
 4. To start a local version of the website run 
 `dat dat://1d57389d37f2da4722edb4d4399fac878b93b7e2a6a69b9845774a2325e66b11/ --http --sparse`
+5. To access the website, open your browser and go to `http://localhost:8080/`
 
 ## Seeding
 
