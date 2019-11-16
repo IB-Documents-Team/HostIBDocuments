@@ -39,7 +39,7 @@ your computer after the installation.
 2. Open up a terminal window and install `dat` with `npm install -g dat`.
 3. Run the command `dat -h`. If you get any output, you have installed Dat 
 succesfully.
-4. If you have the resources downloaded already, skip this step. Download the resources by running the command:
+4. Download the resources by running the command:
 `dat clone dat://1d57389d37f2da4722edb4d4399fac878b93b7e2a6a69b9845774a2325e66b11/`.
 5. `cd` into the dat directory. To start seeding and downloading all the IB resources run the command: 
 `dat sync dat://1d57389d37f2da4722edb4d4399fac878b93b7e2a6a69b9845774a2325e66b11/`.
